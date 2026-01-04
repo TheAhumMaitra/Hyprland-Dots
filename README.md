@@ -71,6 +71,8 @@ sh <(curl -L https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/Distr
 
 - [Arch-Linux](https://github.com/JaKooLit/Arch-Hyprland)
 
+- [Arch-Linux based distributions](https://wiki.archlinux.org/title/Arch-based_distributions)
+
 - [OpenSUSE(Tumbleweed)](https://github.com/JaKooLit/OpenSuse-Hyprland)
 
 - [Fedora-Linux (43/Rawhide)](https://github.com/JaKooLit/Fedora-Hyprland)
